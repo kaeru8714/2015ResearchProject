@@ -1,0 +1,24 @@
+
+{"userID":"0000000001","purchased":true,
+"data":
+
+{"hotelID":"0000032239", // 호텔 ID
+"initTime":"2015-12-25	081525", // 날짜 \t 시각 (앱 사용 시작)
+
+"data_buttons": // 버튼 데이터
+[
+{"count":2} // 총 버튼형 입력 소스 개수
+{"Hotel_info_button":[{"count":3},{"time":"2015-12-25	081852"},{"time":"2015-12-25	082013"},{"time":"2015-12-25 082513"}]}, // "Hotel_info_button":입력소스이름 "count":해당 입력소스로 들어온  로그 개수 나머지는 시각
+],
+
+"data_pages":
+[
+
+{"count":2} // 총 페이지형 입력 소스 개수
+{"Hotel_info_page":[{"count":2},{"time":"2015-12-25	081853","stayedFor":32},{"time":"2015-12-25	082515","stayedFor":145}, // "Hotel_info_page":입력소스이름 "count"해당 입력소스로 들어온 로그 개수
+
+]
+
+
+{"userID":"0000000001","purchased":true,"data":{"hotelID":"0000032239","initTime":"2015-12-25	081525","data_buttons":[{"count":2},{"Hotel_info_button":[{"count":3},{"time":"2015-12-25	081852"},{"time":"2015-12-25	082013"},{"time":"2015-12-25 082513"}]},],"data_pages":[{"count":2},{"Hotel_info_page":[{"count":2},{"time":"2015-12-25	081853","stayedFor":32},{"time":"2015-12-25	082515","stayedFor":145}]
+
